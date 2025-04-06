@@ -8,8 +8,6 @@ Una aplicación hecha en Python con interfaz moderna y tema oscuro usando `ttkbo
 
 - 🎯 Ingreso de enlaces
 - 📏 Tamaños personalizables (4 opciones)
-- 🌓 Soporte para temas claros y oscuros
-- 🖼️ Inserción opcional de logo en el centro del QR
 - 💾 Guardado del QR en formato PNG
 
 ## 💻 Requisitos
