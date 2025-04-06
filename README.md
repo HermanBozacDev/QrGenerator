@@ -2,7 +2,7 @@
 
 Una aplicación hecha en Python con interfaz moderna usando `ttkbootstrap`. Permite generar códigos QR a partir de un link, con opciones de tamaño, temas oscuros/claros y la posibilidad de incrustar un logo en el centro del QR. Ideal para compartir enlaces de forma profesional.
 
-![Captura del programa](screenshot.png)
+![Captura del programa](qrgenerator.png)
 
 ## ✨ Características
 
