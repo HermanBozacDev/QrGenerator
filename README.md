@@ -1,6 +1,6 @@
 # 🔲 Generador de Códigos QR Moderno
 
-Una aplicación hecha en Python con interfaz moderna usando `ttkbootstrap`. Permite generar códigos QR a partir de un link, con opciones de tamaño, temas oscuros/claros y la posibilidad de incrustar un logo en el centro del QR. Ideal para compartir enlaces de forma profesional.
+Una aplicación hecha en Python con interfaz moderna y tema oscuro usando `ttkbootstrap`. Permite generar códigos QR a partir de un link, con opciones de tamaño. Ideal para compartir enlaces de forma profesional.
 
 ![Captura del programa](qrgenerator.PNG)
 
